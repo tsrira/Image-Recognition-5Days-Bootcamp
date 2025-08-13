@@ -110,5 +110,44 @@ pip install tensorflow keras matplotlib seaborn scikit-learn
 
 ---
 
+
+---
+
+## 📅 Day-wise Learnings
+
+### **Day 01: Image Recognition & Data Basics**
+- Learned what image recognition is and its real-world applications.
+- Understood deep learning fundamentals and neural networks.
+- Explored datasets like MNIST and CIFAR-10.
+- Practiced preprocessing: resizing, normalization, and visualization.
+- Performed basic Exploratory Data Analysis (EDA).
+
+### **Day 02: Convolutional Neural Networks (CNN)**
+- Understood CNN structure: convolution, pooling, and dense layers.
+- Learned training process: forward pass, loss calculation, backpropagation.
+- Implemented a CNN model on MNIST.
+- Introduced Dropout to prevent overfitting.
+- Evaluated models with accuracy and validation metrics.
+
+### **Day 03: Deeper CNNs & Data Augmentation**
+- Explored deeper CNN architectures for advanced feature extraction.
+- Learned data augmentation techniques to improve robustness.
+- Implemented advanced evaluation metrics (Precision, Recall, F1-score, AUC-ROC).
+- Applied augmentation on CIFAR-10 dataset.
+
+### **Day 04: Transfer Learning & Fine-tuning**
+- Learned about pre-trained models (MobileNetV2, ResNet, VGG).
+- Implemented transfer learning using MobileNetV2 for Cats vs Dogs dataset.
+- Fine-tuned the base model for better accuracy.
+- Applied optimizers and learning rate scheduling.
+
+### **Day 05: Prediction, Portfolio & Deployment**
+- Learned to make predictions on new data.
+- Prepared portfolio assets: GitHub repo, visualizations, and results summary.
+- Saved and loaded models for reuse.
+- Visualized accuracies across datasets.
+- Discussed deployment options for real-world use.
+
+---
 ## 📝 Author
-**Srinivasan Sriram Tirunelvelli**  
+**Sriram TS**  
